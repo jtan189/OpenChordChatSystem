@@ -8,3 +8,5 @@
 *.jar
 *.war
 *.ear
+
+open_chord.log.html
