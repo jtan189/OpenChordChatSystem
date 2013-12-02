@@ -5,8 +5,8 @@
 *.classpath
 
 # Package Files #
-*.jar
 *.war
 *.ear
 
 open_chord.log.html
+bin
